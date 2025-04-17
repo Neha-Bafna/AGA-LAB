@@ -1,4 +1,4 @@
-#Restricted Boltzman Machine
+#Restricted Boltzman Machine#
 
 import numpy as np
 from scipy.ndimage import convolve
